@@ -11,9 +11,7 @@
 
 ## 🌐 Links
 
-🔗 **[📄 Paper (CVPR 2025)](https://arxiv.org/abs/2412.18108)** | 🌐 **[🎨 Project Website](https://page-visual-head.jing.vision/)**
-
-
+🔗 **[📄 Paper (CVPR 2025)](https://arxiv.org/abs/2412.18108)** | 🌐 **[🎨 Project Website](https://page-visual-head.jing.vision/)** | 🤗 **[Dataset (Hugging Face)](https://huggingface.co/datasets/jing-bi/visual-head)**
 
 ## 🚀 News
 
